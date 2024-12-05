@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "3051153a-245c-4f1c-90ae-d321caef3959",
+	"authors": ["Play Sorbonne", "fuifne"],
+	"origin": "https://github.com/PlaySorbonne/AMPTemplates.git",
+	"url": "https://github.com/PlaySorbonne/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "psu",
 	"repotype": "AppTemplates"
 }
