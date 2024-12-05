@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "DisplayName": "Select Map",
+        "Category": "Server Settings",
+        "Description": "change startup map",
+        "Keywords": "select,map",
+        "FieldName": "startupMap",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "startupMap",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "d1_trainstation_01",
+        "Placeholder": "d1_trainstation_01",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
