@@ -1,9 +1,8 @@
 {
-	"id": "3051153a-245c-4f1c-90ae-d321caef3959",
+	"id": "aaf1c4a2-e679-4814-8efe-c39488d5f620",
 	"authors": ["Play Sorbonne", "fuifne"],
-	"origin": "https://github.com/PlaySorbonne/AMPTemplates.git",
+	"origin": "https://github.com/PlaySorbonne/AMPTemplates",
 	"url": "https://github.com/PlaySorbonne/AMPTemplates",
 	"imagefile": "",
 	"prefix": "psu",
-	"repotype": "AppTemplates"
 }
