@@ -10,41 +10,5 @@
         "ForceDownloadPlatform": "Windows",
         "DeleteAfterExtract": true,
         "OneShot": false
-    },
-    {
-        "UpdateStageName": "220",
-        "UpdateSourcePlatform": "All",
-        "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "220",
-        "UpdateSourceArgs": "220",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Windows",
-        "DeleteAfterExtract": true,
-        "OneShot": false
-    },
-    {
-        "UpdateStageName": "420",
-        "UpdateSourcePlatform": "All",
-        "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "420",
-        "UpdateSourceArgs": "420",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Windows",
-        "DeleteAfterExtract": true,
-        "OneShot": false
-    },
-    {
-        "UpdateStageName": "380",
-        "UpdateSourcePlatform": "All",
-        "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "380",
-        "UpdateSourceArgs": "380",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Windows",
-        "DeleteAfterExtract": true,
-        "OneShot": false
     }
 ]
