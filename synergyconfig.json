@@ -1,9 +1,9 @@
 [
     {
-        "DisplayName": "Select Map",
+        "DisplayName": "startupMap",
         "Category": "Server Settings",
-        "Description": "change startup map",
-        "Keywords": "select,map",
+        "Description": "startupMap",
+        "Keywords": "startupmap",
         "FieldName": "startupMap",
         "InputType": "text",
         "IsFlagArgument": false,
